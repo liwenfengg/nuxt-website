@@ -9,7 +9,7 @@
     <vue-typed-js :strings="['自我介绍一下~']" :show-cursor="false" :start-delay="1500">
       <h2 class="typing" />
     </vue-typed-js>
-    <vue-typed-js :strings="['90后，来自湖北随州，现在在武汉工作，从事前端开发，个人比较活泼开朗吧，没事学学技术，打打游戏听听歌。。。']" :show-cursor="false" :start-delay="2500">
+    <vue-typed-js :strings="['95后，来自湖北随州，现在在上海工作，从事前端开发，个人比较活泼开朗吧，没事学学技术，打打游戏听听歌。。。']" :show-cursor="false" :start-delay="2500">
       <h4 class="typing" />
     </vue-typed-js>
   </div>
